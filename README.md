@@ -30,5 +30,5 @@ Check if criteria has been met: <br/>
 <br />
 <br />
 Ask for user input: <br/>
-<img src="https://i.imgur.com/eTpw0O5.png" height="80%" width="80%" alt="Password Generator Steps/>
+<img src="https://i.imgur.com/eTpw0O5.png" height="80%" width="80%" alt="Password Generator Steps"/>
 </p>
