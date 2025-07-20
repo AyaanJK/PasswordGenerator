@@ -26,7 +26,7 @@ Generate password:  <br/>
 <br />
 <br />
 Check if criteria has been met: <br/>
-<img src="https://i.imgur.com/C6J2v9Q.png" height="80%" width="80%" alt="Password Generator Steps/>
+<img src="https://i.imgur.com/C6J2v9Q.png" height="80%" width="80%" alt="Password Generator Steps"/>
 <br />
 <br />
 Ask for user input: <br/>
