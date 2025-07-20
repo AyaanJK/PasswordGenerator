@@ -17,14 +17,18 @@ Generates a password based on given parameters.
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Lorem ipsum: <br/>
-<img src="" height="80%" width="80%" alt="Password Generator Steps"/>
+Generate string of usable characters: <br/>
+<img src="https://i.imgur.com/sIhwBz7.png" height="80%" width="80%" alt="Password Generator Steps"/>
 <br />
 <br />
-Lorem ipsum:  <br/>
-<img src="" height="80%" width="80%" alt="Password Generator Steps"/>
+Generate password:  <br/>
+<img src="https://i.imgur.com/zenSsVO.png" height="80%" width="80%" alt="Password Generator Steps"/>
 <br />
 <br />
-Lorem ipsum: <br/>
-<img src="" height="80%" width="80%" alt="Password Generator Steps/>
+Check if criteria has been met: <br/>
+<img src="https://i.imgur.com/C6J2v9Q.png" height="80%" width="80%" alt="Password Generator Steps/>
+<br />
+<br />
+Ask for user input: <br/>
+<img src="https://i.imgur.com/eTpw0O5.png" height="80%" width="80%" alt="Password Generator Steps/>
 </p>
