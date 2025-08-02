@@ -1,4 +1,4 @@
-<h1> Password Generator #004</h1>
+<h1> Password Generator #P004</h1>
 
 <h2>Description</h2>
 Generates a password based on given parameters.
